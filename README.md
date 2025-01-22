@@ -1,6 +1,25 @@
-Hello!
+```java
+package me.x2Neptune;
 
-<!---
-x2neptunereal/x2neptunereal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+public class AboutMe {
+    public String FullName = "x2Neptune";
+    public String NickName = "Nep / Trin / Zoi";
+    public int    Age      = 16;
+
+    public static String[] Project() {
+        return new String[] {
+            "Alchemy Hub",    // Founder
+            "Alchemy School", // Founder
+            "Slayerz UI"      // Creator
+        };
+    }
+
+    public static String[] Development() {
+        return new String[] {
+            "Alchemy Hub", // Founder
+            "Zen Hub",     // Developer
+            "Flow"         // Ex Developer
+        };
+    }
+}
+```
