@@ -11,6 +11,7 @@ public class AboutMe {
             "Alchemy Hub",    // Founder
             "Alchemy School", // Founder
             "Slayerz UI"      // Creator
+            "Neta UI"         // Creator
         };
     }
 
@@ -18,6 +19,8 @@ public class AboutMe {
         return new String[] {
             "Alchemy Hub", // Founder
             "Zen Hub",     // Developer
+            "Kncrypt Hub", // Developer
+            "Ayami Dev",   // Developer
             "Flow"         // Ex Developer
         };
     }
