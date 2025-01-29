@@ -26,4 +26,4 @@ public class AboutMe {
     }
 }
 ```
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x2swiftz&show_icons=true&theme=dark&locale=en" alt="x2neptunereal" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x2neptunereal&show_icons=true&theme=dark&locale=en" alt="x2neptunereal" /></p>
