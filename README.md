@@ -3,7 +3,7 @@ package me.x2Neptune;
 
 public class AboutMe {
     public String FullName = "x2Neptune";
-    public String NickName = "Nep / Trin / Zoi";
+    public String NickName = "Nep / Trin / Zoii / Zahaxd Rui";
     public int    Age      = 16;
 
     public static String[] Project() {
@@ -18,6 +18,7 @@ public class AboutMe {
     public static String[] Development() {
         return new String[] {
             "Alchemy Hub", // Founder
+            "Normal Hub",  // Developer
             "Zen Hub",     // Developer
             "Kncrypt Hub", // Developer
             "Ayami Dev",   // Developer
