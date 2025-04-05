@@ -18,7 +18,6 @@ public class AboutMe {
     public static String[] Development() {
         return new String[] {
             "Alchemy Hub", // Founder
-            "Normal Hub",  // Developer
             "Zen Hub",     // Developer
             "Kncrypt Hub", // Developer
             "Ayami Dev",   // Developer
