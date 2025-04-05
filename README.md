@@ -10,20 +10,25 @@ public class AboutMe {
         return new String[] {
             "Alchemy Hub",    // Founder
             "Alchemy School", // Founder
+            "Neta UI",        // Creator
             "Slayerz UI"      // Creator
-            "Neta UI"         // Creator
         };
     }
 
     public static String[] Development() {
         return new String[] {
-            "Alchemy Hub", // Founder
-            "Zen Hub",     // Developer
-            "Kncrypt Hub", // Developer
-            "Ayami Dev",   // Developer
-            "Flow"         // Ex Developer
+            "Lua / Luau",
+            "Javascript",
+            "Python"
+        };
+    }
+
+    public static String[] Learning() {
+        return new String[] {
+            "Java",
+            "C#",
+            "C++"
         };
     }
 }
 ```
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=x2neptunereal&show_icons=true&theme=dark&locale=en" alt="x2neptunereal" /></p>
